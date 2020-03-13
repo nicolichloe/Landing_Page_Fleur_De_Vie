@@ -1,0 +1,18 @@
+.jumbotron{
+	background-image: url('images/fleursfond.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.card-header{
+	background-image: url('images/blanc.jpg');
+}
+
+footer{
+	background-image: url('images/fleursfond.jpg');
+    position:absolute;
+    bottom:100;
+    width:100%;
+    padding-top:20px;
+    height:70px;   
+  }
